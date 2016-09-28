@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1475020694 source:c:\users\guilherme\documents\faculdade\topicos\projetobase\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<glut.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+
